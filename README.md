@@ -7,4 +7,4 @@ AtTiny85|HC-05
 5V|Vcc
 GND|GND
 D3|TX
-D4 **(3.3V)**|RX
+D4 **(3.3V!!!)**|RX
