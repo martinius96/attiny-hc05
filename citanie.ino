@@ -6,7 +6,7 @@
 #define TX 4
 #define pinLED 0
 #include <SoftwareSerial.h>
-SoftwareSerial bluetooth(TX, RX);
+SoftwareSerial bluetooth(RX, TX); //change RX, TX to TX, RX if problems occured
 
 void setup() {
   bluetooth.begin(9600);
