@@ -1,6 +1,6 @@
 # attiny-hc05
 * Testovací program pre spojenie Attiny 85 a Bluetooth modulu HC-05
-* Modul je napájaný na 5V, pričom RX pin musí prijímať iba 3.3V signál! Nutné previesť prostredníctvom napäťového deliča
+* Modul je napájaný na 5V, pričom RX pin musí prijímať iba 3.3V signál! 5V signál z Arduina je nutné previesť na 3.3V prostredníctvom napäťového deliča
 ## Zapojenie - Wiring
 
 AtTiny85|HC-05
